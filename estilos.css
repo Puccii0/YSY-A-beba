@@ -1,0 +1,103 @@
+h1 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    
+    border: solid 5px;
+    padding: 20px;
+    margin: 80px;
+    background-image: url("./img/fondochiki.jpg");
+    background-repeat: repeat-x ;
+    text-align: center;
+   
+}
+h2 {
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-align: center;
+}
+h3 {
+    background-image: linear-gradient(to left bottom, #ffffff, #eef8ff, #c7f6ff, #8ef6ff, #48f6fd);
+    border: solid;
+    text-align: center;
+    color: black
+}
+body{ 
+    background-image: url(./img/Ez.jpg) ;
+    background-repeat: repeat;
+    
+}
+#inicioos {
+    color: crimson;
+    padding: 10px;
+    margin: auto;
+    background-image: url("./img/fondoo.jpg");
+}
+.card {
+    width: 300px;
+}
+p {
+    background-image: linear-gradient(to right bottom, #ffffff, #fff0ff, #ffdcdc, #ffe186, #f0ff44);
+    border: solid;
+    border-color: white;
+    padding: 15px;
+}
+#tabladeverdad {
+    background-image: url(./img/trap\ de\ verdad.jpg) ;
+    width: 500px;
+    background-size: cover;
+    border: solid 5px;
+    color:#f0ff44;
+    font-size: bold;
+    font-weight: 600px;
+}
+#tablamordiendo {
+    background-image: url(./img/mordiendo\ el\ bozal.jpg);
+    color: white;
+    background-size: contain;
+    font-size: bold;
+}
+#tablahechoamano {
+    background-image: url(./img/hecho\ a\ mano.jpeg);
+    color: goldenrod;
+    font-weight: bold;
+    background-size: contain;
+    border: solid;
+}
+#cuadroantezana {
+    background-image: url(./img/antezana.png);
+    color: white;
+    font-weight: bold;
+    background-size: contain;
+    border: solid;
+}
+
+#carouselExampleIndicators {
+   width: 800px;
+}
+
+nav {
+    margin: 5px;
+    background-image: linear-gradient(to right bottom, #ffffff, #fff0ff, #ffdcdc, #ffe186, #f0ff44);
+}
+
+iframe {
+    border: solid;
+    margin: 10px;
+    align-items: center;
+}
+#sismo1 {
+    border: solid;
+ 
+
+}
+#piedepagina {
+    text-align: center;
+    background-color: none;
+}
+#finalindex {
+    border: solid;
+
+}
